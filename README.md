@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/jakobhans" target="blank"><img src="https://img.shields.io/twitter/follow/jakobhans?logo=twitter&style=for-the-badge" alt="jakobhans" /></a> </p>
 
-- 🔭 I’m currently working on [Wizeline](wizeline.com)
+- 🔭 I’m currently working on [Wizeline](https://www.wizeline.com/)
 
 - 🌱 I’m currently learning **Typescrypt, AWS and Go**
 
-- 👯 I’m looking to collaborate on [phobia.wtf](phobia.wtf)
+- 👯 I’m looking to collaborate on [phobia.wtf](https://github.com/phobia-wtf)
 
-- 👨‍💻 All of my projects are available at [jakobhans.dev](jakobhans.dev)
+- 👨‍💻 All of my projects are available at [https://jakobhans.dev](https://jakobhans.dev)
 
-- 📝 I regulary write articles on [jakobhans.dev/scrapbook](jakobhans.dev/scrapbook)
+- 📝 I regulary write articles on [https://jakobhans.dev/scrapbook](https://jakobhans.dev/scrapbook)
 
 - 💬 Ask me about **Laravel, PHP, Blockchain and JavaScript**
 
